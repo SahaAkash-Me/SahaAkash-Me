@@ -1,6 +1,6 @@
 # Hi there, I'm Akash Saha! 👋
 
-<p align="right">
+<p align="left">
   <a href="https://linkedin.com/in/akashsaha-analyst">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -17,7 +17,7 @@
 ## 👨‍💼 About Me
 
 💼 **Fraud & Risk Analytics Specialist | AML/KYC Compliance | Data Analyst**  
-📍 Kolkata, India | Open to relocation (Bangalore, Pune, Hyderabad)
+📍 Kolkata, India | **Open to opportunities anywhere in India**
 
 I specialize in **detecting fraud patterns**, optimizing risk workflows, and building data-driven systems that improve decision-making and reduce financial risk.
 
