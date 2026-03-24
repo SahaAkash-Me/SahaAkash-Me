@@ -4,7 +4,7 @@
   <a href="https://linkedin.com/in/akashsaha-analyst">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://app.netlify.com/projects/akashsaha-profile/overview">
+  <a href="https://akashsaha-profile.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:sahaakash6@gmail.com">
@@ -43,25 +43,25 @@
 ### 🛠️ Tech Stack
 
 **Data & Analytics**  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 **Data Engineering**  
-![ETL](https://img.shields.io/badge/ETL-0F6E56?style=flat-square)
-![Medallion Architecture](https://img.shields.io/badge/Medallion_Architecture-1D9E75?style=flat-square)
-![SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-0F6E56?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Medallion Architecture](https://img.shields.io/badge/Medallion%20Architecture-1D9E75?style=for-the-badge)
+![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 **Risk & Compliance**  
-![AML](https://img.shields.io/badge/AML-534AB7?style=flat-square)
-![KYC](https://img.shields.io/badge/KYC-7F77DD?style=flat-square)
-![Fraud Detection](https://img.shields.io/badge/Fraud_Detection-D85A30?style=flat-square)
+![AML](https://img.shields.io/badge/AML-6B46C1?style=for-the-badge)
+![KYC](https://img.shields.io/badge/KYC-8B5CF6?style=for-the-badge)
+![Fraud Detection](https://img.shields.io/badge/Fraud%20Detection-EF4444?style=for-the-badge)
 
 **Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
