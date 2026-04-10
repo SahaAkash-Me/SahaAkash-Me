@@ -137,7 +137,7 @@ I specialize in **detecting fraud patterns**, optimizing risk workflows, and bui
 
 ### 🌌 4. 3D Digital Portfolio
 
-> **Interactive 3D portfolio built with React, Three.js & GSAP**
+> **Interactive 3D portfolio built with React, TypeScript, Three.js & GSAP**
 
 [![Repo](https://img.shields.io/badge/GitHub-3D_Digital_Portfolio-181717?style=for-the-badge&logo=github)](https://github.com/SahaAkash-Me/3D-Digital-Protfilio)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-akashsaha--profile.netlify.app-FF3366?style=for-the-badge&logo=netlify&logoColor=white)](https://akashsaha-profile.netlify.app/)
@@ -178,17 +178,17 @@ I specialize in **detecting fraud patterns**, optimizing risk workflows, and bui
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SahaAkash-Me&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=SahaAkash-Me&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SahaAkash-Me&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SahaAkash-Me&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
   &nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahaAkash-Me&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahaAkash-Me&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SahaAkash-Me&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SahaAkash-Me&theme=radical&no-frame=true&row=1&column=6&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
 ---
