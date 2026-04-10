@@ -16,7 +16,7 @@
 
 ## 👨‍💼 About Me
 
-💼 **Fraud & Risk Analytics Specialist | AML/KYC Compliance | Data Analyst**  
+💼 **Fraud & Risk Analytics Specialist | AML/KYC Compliance | Aspiring Data Analyst**  
 📍 Kolkata, India | **Open to opportunities anywhere in India**
 
 I specialize in **detecting fraud patterns**, optimizing risk workflows, and building data-driven systems that improve decision-making and reduce financial risk.
